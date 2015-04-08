@@ -7,7 +7,7 @@ unzip.o: unzip.c ../config.h /usr/include/arm-linux-gnueabihf/sys/stat.h \
  /usr/include/arm-linux-gnueabihf/bits/typesizes.h /usr/include/time.h \
  /usr/include/arm-linux-gnueabihf/bits/stat.h /usr/include/zlib.h \
  /usr/include/zconf.h /usr/include/arm-linux-gnueabihf/sys/types.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stddef.h \
  /usr/include/endian.h /usr/include/arm-linux-gnueabihf/bits/endian.h \
  /usr/include/arm-linux-gnueabihf/bits/byteswap.h \
  /usr/include/arm-linux-gnueabihf/sys/select.h \
@@ -21,7 +21,7 @@ unzip.o: unzip.c ../config.h /usr/include/arm-linux-gnueabihf/sys/stat.h \
  /usr/include/arm-linux-gnueabihf/bits/confname.h getopt.h \
  /usr/include/arm-linux-gnueabihf/sys/mman.h \
  /usr/include/arm-linux-gnueabihf/bits/mman.h /usr/include/assert.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdarg.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdarg.h \
  /usr/include/stdlib.h /usr/include/arm-linux-gnueabihf/bits/waitflags.h \
  /usr/include/arm-linux-gnueabihf/bits/waitstatus.h \
  /usr/include/xlocale.h /usr/include/alloca.h /usr/include/string.h \
@@ -35,7 +35,7 @@ unzip.o: unzip.c ../config.h /usr/include/arm-linux-gnueabihf/sys/stat.h \
  /usr/include/arm-linux-gnueabihf/bits/stdio_lim.h \
  /usr/include/arm-linux-gnueabihf/bits/sys_errlist.h \
  /usr/include/arm-linux-gnueabihf/bits/stdio.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdint.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdint.h \
  /usr/include/stdint.h /usr/include/arm-linux-gnueabihf/bits/wchar.h
 
 ../config.h:
@@ -66,7 +66,7 @@ unzip.o: unzip.c ../config.h /usr/include/arm-linux-gnueabihf/sys/stat.h \
 
 /usr/include/arm-linux-gnueabihf/sys/types.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stddef.h:
 
 /usr/include/endian.h:
 
@@ -102,7 +102,7 @@ getopt.h:
 
 /usr/include/assert.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdarg.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdarg.h:
 
 /usr/include/stdlib.h:
 
@@ -148,7 +148,7 @@ unzip.h:
 
 /usr/include/arm-linux-gnueabihf/bits/stdio.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdint.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdint.h:
 
 /usr/include/stdint.h:
 

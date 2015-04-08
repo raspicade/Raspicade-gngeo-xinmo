@@ -3,7 +3,7 @@ list.o: list.c ../config.h /usr/include/stdlib.h /usr/include/features.h \
  /usr/include/arm-linux-gnueabihf/sys/cdefs.h \
  /usr/include/arm-linux-gnueabihf/bits/wordsize.h \
  /usr/include/arm-linux-gnueabihf/gnu/stubs.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stddef.h \
  /usr/include/arm-linux-gnueabihf/bits/waitflags.h \
  /usr/include/arm-linux-gnueabihf/bits/waitstatus.h /usr/include/endian.h \
  /usr/include/arm-linux-gnueabihf/bits/endian.h \
@@ -33,7 +33,7 @@ list.o: list.c ../config.h /usr/include/stdlib.h /usr/include/features.h \
 
 /usr/include/arm-linux-gnueabihf/gnu/stubs.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stddef.h:
 
 /usr/include/arm-linux-gnueabihf/bits/waitflags.h:
 

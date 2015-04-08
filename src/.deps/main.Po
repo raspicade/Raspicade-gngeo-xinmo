@@ -11,7 +11,7 @@ main.o: main.c ../config.h /usr/include/signal.h /usr/include/features.h \
  /usr/include/arm-linux-gnueabihf/bits/sigaction.h \
  /usr/include/arm-linux-gnueabihf/bits/sigcontext.h \
  /usr/include/arm-linux-gnueabihf/asm/sigcontext.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stddef.h \
  /usr/include/arm-linux-gnueabihf/bits/sigstack.h \
  /usr/include/arm-linux-gnueabihf/sys/ucontext.h \
  /usr/include/arm-linux-gnueabihf/bits/pthreadtypes.h \
@@ -26,7 +26,7 @@ main.o: main.c ../config.h /usr/include/signal.h /usr/include/features.h \
  /usr/include/arm-linux-gnueabihf/bits/time.h \
  /usr/include/arm-linux-gnueabihf/sys/sysmacros.h /usr/include/stdio.h \
  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdarg.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdarg.h \
  /usr/include/arm-linux-gnueabihf/bits/stdio_lim.h \
  /usr/include/arm-linux-gnueabihf/bits/sys_errlist.h \
  /usr/include/arm-linux-gnueabihf/bits/stdio.h /usr/include/stdlib.h \
@@ -36,7 +36,7 @@ main.o: main.c ../config.h /usr/include/signal.h /usr/include/features.h \
  /usr/include/arm-linux-gnueabihf/bits/string.h \
  /usr/include/arm-linux-gnueabihf/bits/string2.h /usr/include/strings.h \
  /usr/include/inttypes.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdint.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdint.h \
  /usr/include/stdint.h /usr/include/arm-linux-gnueabihf/bits/wchar.h \
  /usr/include/ctype.h /usr/include/iconv.h /usr/include/SDL/begin_code.h \
  /usr/include/SDL/close_code.h /usr/include/SDL/SDL_audio.h \
@@ -90,7 +90,7 @@ main.o: main.c ../config.h /usr/include/signal.h /usr/include/features.h \
 
 /usr/include/arm-linux-gnueabihf/asm/sigcontext.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stddef.h:
 
 /usr/include/arm-linux-gnueabihf/bits/sigstack.h:
 
@@ -134,7 +134,7 @@ main.o: main.c ../config.h /usr/include/signal.h /usr/include/features.h \
 
 /usr/include/wchar.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdarg.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdarg.h:
 
 /usr/include/arm-linux-gnueabihf/bits/stdio_lim.h:
 
@@ -162,7 +162,7 @@ main.o: main.c ../config.h /usr/include/signal.h /usr/include/features.h \
 
 /usr/include/inttypes.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdint.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdint.h:
 
 /usr/include/stdint.h:
 

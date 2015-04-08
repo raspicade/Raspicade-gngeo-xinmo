@@ -12,7 +12,7 @@ menu.o: menu.c ../config.h /usr/include/errno.h /usr/include/features.h \
  /usr/include/arm-linux-gnueabihf/sys/types.h \
  /usr/include/arm-linux-gnueabihf/bits/types.h \
  /usr/include/arm-linux-gnueabihf/bits/typesizes.h /usr/include/time.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stddef.h \
  /usr/include/endian.h /usr/include/arm-linux-gnueabihf/bits/endian.h \
  /usr/include/arm-linux-gnueabihf/bits/byteswap.h \
  /usr/include/arm-linux-gnueabihf/sys/select.h \
@@ -23,7 +23,7 @@ menu.o: menu.c ../config.h /usr/include/errno.h /usr/include/features.h \
  /usr/include/arm-linux-gnueabihf/bits/pthreadtypes.h \
  /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
  /usr/include/wchar.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdarg.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdarg.h \
  /usr/include/arm-linux-gnueabihf/bits/stdio_lim.h \
  /usr/include/arm-linux-gnueabihf/bits/sys_errlist.h \
  /usr/include/arm-linux-gnueabihf/bits/stdio.h /usr/include/stdlib.h \
@@ -33,7 +33,7 @@ menu.o: menu.c ../config.h /usr/include/errno.h /usr/include/features.h \
  /usr/include/arm-linux-gnueabihf/bits/string.h \
  /usr/include/arm-linux-gnueabihf/bits/string2.h /usr/include/strings.h \
  /usr/include/inttypes.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdint.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdint.h \
  /usr/include/stdint.h /usr/include/arm-linux-gnueabihf/bits/wchar.h \
  /usr/include/ctype.h /usr/include/iconv.h /usr/include/SDL/begin_code.h \
  /usr/include/SDL/close_code.h /usr/include/SDL/SDL_audio.h \
@@ -112,7 +112,7 @@ menu.o: menu.c ../config.h /usr/include/errno.h /usr/include/features.h \
 
 /usr/include/time.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stddef.h:
 
 /usr/include/endian.h:
 
@@ -140,7 +140,7 @@ menu.o: menu.c ../config.h /usr/include/errno.h /usr/include/features.h \
 
 /usr/include/wchar.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdarg.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdarg.h:
 
 /usr/include/arm-linux-gnueabihf/bits/stdio_lim.h:
 
@@ -168,7 +168,7 @@ menu.o: menu.c ../config.h /usr/include/errno.h /usr/include/features.h \
 
 /usr/include/inttypes.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdint.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdint.h:
 
 /usr/include/stdint.h:
 

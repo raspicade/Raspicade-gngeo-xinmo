@@ -3,10 +3,10 @@ memory.o: memory.c ../config.h emu.h /usr/include/string.h \
  /usr/include/arm-linux-gnueabihf/sys/cdefs.h \
  /usr/include/arm-linux-gnueabihf/bits/wordsize.h \
  /usr/include/arm-linux-gnueabihf/gnu/stubs.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stddef.h \
  /usr/include/xlocale.h /usr/include/arm-linux-gnueabihf/bits/string.h \
  /usr/include/arm-linux-gnueabihf/bits/string2.h /usr/include/stdlib.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdint.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdint.h \
  /usr/include/stdint.h /usr/include/arm-linux-gnueabihf/bits/wchar.h \
  /usr/include/SDL/SDL.h /usr/include/SDL/SDL_main.h \
  /usr/include/SDL/SDL_stdinc.h /usr/include/SDL/SDL_config.h \
@@ -24,7 +24,7 @@ memory.o: memory.c ../config.h emu.h /usr/include/string.h \
  /usr/include/arm-linux-gnueabihf/bits/pthreadtypes.h \
  /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
  /usr/include/wchar.h \
- /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdarg.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdarg.h \
  /usr/include/arm-linux-gnueabihf/bits/stdio_lim.h \
  /usr/include/arm-linux-gnueabihf/bits/sys_errlist.h \
  /usr/include/arm-linux-gnueabihf/bits/stdio.h \
@@ -67,7 +67,7 @@ emu.h:
 
 /usr/include/arm-linux-gnueabihf/gnu/stubs.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stddef.h:
 
 /usr/include/xlocale.h:
 
@@ -77,7 +77,7 @@ emu.h:
 
 /usr/include/stdlib.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdint.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdint.h:
 
 /usr/include/stdint.h:
 
@@ -127,7 +127,7 @@ emu.h:
 
 /usr/include/wchar.h:
 
-/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdarg.h:
+/usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdarg.h:
 
 /usr/include/arm-linux-gnueabihf/bits/stdio_lim.h:
 
